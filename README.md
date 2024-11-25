@@ -17,6 +17,9 @@ Uma aplicação simples de lista de tarefas desenvolvida com HTML, CSS e JavaScr
 - **JavaScript**: Lógica e manipulação da lista de tarefas.
 - **localStorage**: Armazenamento persistente de tarefas no navegador.
 
+## Link do site
+https://alista01.netlify.app/
+
 ## Instalação e Uso
 
 ### Clonando o Repositório
